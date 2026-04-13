@@ -5,7 +5,7 @@ Este repositorio contiene el proyecto final de la asignatura de Programación Or
 ## Integrantes del Equipo
 1. Juan Sebastian Guerrero Vanegas
 2. Ervin Santiago Ardila Vanegas
-3. [Nombre del Integrante 3]
+3. Juan Manuel Caviedes Sanchez
 4. [Nombre del Integrante 4]
 5. [Nombre del Integrante 5]
 
@@ -18,6 +18,6 @@ Para esta primera entrega, no se requiere ejecutar un prototipo funcional. Para 
 
 ## Instalación y Ejecución
 1. Clonar este repositorio en tu máquina local:
-   `git clone [URL_REPOSITORIO]`
+   `git clone [URL_DE_TU_REPOSITORIO]`
 2. Abrir la carpeta del proyecto en tu IDE de preferencia.
 3. Compilar y ejecutar la clase principal `Main.java`.
